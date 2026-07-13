@@ -40,6 +40,10 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * | Gabriele Campos | Henrique Souza | Juan Pablo | Laís Renata | Luan Seiji | Marcos Nobre |
 * | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Batista |
 
+
+
+
+
 ### 🌆 Tarde (Segunda e Terça)
 * | Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima |
 * | Gustavo Jesus | Igor Batista | João Teles | Julio Ilidio | Lana Reis | Larissa Silva |
@@ -50,18 +54,18 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 
 ## 📂 Projetos por Tema
 
-* **🍔 Hamburgueria:** Marcos, Samuel, Diego
+<!-- * **🍔 Hamburgueria:** Marcos, Samuel, Diego. Espaço do nathan -->
 * | Gabriel L., Gabriele C., Maria M., Vinicius B.
 * | Gabriela L., Henrique S., Laís R., Rychard R.
 * | Beatriz O., Clara, João, Maria F.
-* | Claudomiro S., Richard P.
+* | Claudomiro S., Richard P. 
 * | Julio I., Miguel A.
-* **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel.
-* **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana.
-* **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry.
-* **✂️ Barbearia:** Allan, Igor, Milena, Yuri.
-* **💄 Salão de Beleza:** Michelle, Rafaela, Stefani.
-
+<!-- * **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel. Espaço do Felipe e Igor -->
+<!-- * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana. Espaço do Diogo -->
+<!-- * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry.  Espaço da Bia -->
+<!-- * **✂️ Barbearia:** Allan, Igor, Milena, Yuri. Espaço da Isa -->
+<!-- * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani. Espaço do Pedro -->
+<!--Espaço da Gigi -->
 ---
 
 ## 💻 Exemplos de Código (Python)
